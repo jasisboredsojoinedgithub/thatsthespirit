@@ -1,6 +1,6 @@
 const headerNavLinks = [
   { href: '/video', title: 'episodes' },
-  { href: '/about', title: '关于' },
+  { href: '/about', title: 'ABOUT' },
 ]
 
 export default headerNavLinks
