@@ -1,5 +1,5 @@
 const headerNavLinks = [
-  { href: '/video', title: 'episodes' },
+  { href: '/video', title: 'EPISODES' },
   { href: '/about', title: 'ABOUT' },
 ]
 
