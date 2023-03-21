@@ -12,8 +12,7 @@ const siteMetadata = {
   socialBanner: '/static/images/twitter-card.png',
   email: 'jasminewng0913@gmail.com',
   github: 'https://github.com/jasisboredsojoinedgithub',
-  juejin: 'https://juejin.cn/user/2189882895384093',
-  zhihu: 'https://www.zhihu.com/people/xiao-ma-15-3',
+  instagram: 'https://www.instagram.com/',
   locale: 'zh-CN',
   welcome: 'Thats the Spirit',
   analytics: {
