@@ -1,21 +1,21 @@
 const siteMetadata = {
-  title: '狂奔滴小马 | 前端工程师成长部落阁',
-  author: '狂奔滴小马',
-  headerTitle: '小马部落阁',
-  description: '分享 JavaScript 以及热门框架，记录前端工程师学习成长历程。',
+  title: 'Thats the Spirit',
+  author: 'Jas',
+  headerTitle: 'Thats the Spirit',
+  description: 'That‘s the Spirit is a paranormal history podcast covering all kinds of eerie-sistable stories that will leave you spooked for days. Hosts Hafidz & Marsya talk about all things paranormal and unravel real-life experiences. Join us every week girls and ghouls!',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://maqib.cn',
-  siteRepo: 'https://github.com/maqi1520/nextjs-tailwind-blog',
-  siteLogo: '/static/images/logo.png',
-  image: '/static/images/avatar.png',
+  siteUrl: 'https://thatsthespirit.vercel.app/',
+  siteRepo: 'https://github.com/maqi1520/nextjs-tailwind-blog/tree/658b49cf3e8d28712272fea8e1fb671bcba65a6a',
+  siteLogo: '/static/images/ghost.png',
+  image: '/static/images/ghost.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'maqi1520@163.com',
-  github: 'https://github.com/maqi1520',
+  email: 'jasminewng0913@gmail.com',
+  github: 'https://github.com/jasisboredsojoinedgithub',
   juejin: 'https://juejin.cn/user/2189882895384093',
   zhihu: 'https://www.zhihu.com/people/xiao-ma-15-3',
   locale: 'zh-CN',
-  welcome: '自在，轻盈，我本不想停留',
+  welcome: 'Thats the Spirit',
   analytics: {
     //如果要使用分析提供程序，则必须将其添加到。
     //`next.config.js`文件中的内容安全策略。
